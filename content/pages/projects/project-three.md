@@ -4,7 +4,7 @@ title: PROJETO EM PHP
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'Projeto realizado em PHP, tendo em vista um questionário'
+description: 'Projeto CRUD, realizado em PHP'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
