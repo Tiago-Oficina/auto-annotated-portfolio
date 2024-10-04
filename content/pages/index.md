@@ -117,7 +117,7 @@ sections:
 
         featuredImage:
           type: ImageBlock
-          url: /images/linguagem-python-1024x579.jpg
+          url: /images/novap.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
