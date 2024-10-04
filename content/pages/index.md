@@ -63,7 +63,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - colors: colors-f
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:
