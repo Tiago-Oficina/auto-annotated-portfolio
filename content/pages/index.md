@@ -117,8 +117,7 @@ sections:
 
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/linguagem-python.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
