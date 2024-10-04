@@ -140,7 +140,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submeter\U0001F680"
+      submitLabel: Submeter✅
       styles:
         submitLabel:
           textAlign: center
