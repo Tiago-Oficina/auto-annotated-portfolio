@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/pexels-karolina-grabowska-6634136.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
