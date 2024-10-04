@@ -66,10 +66,7 @@ sections:
   - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
