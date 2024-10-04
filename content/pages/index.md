@@ -107,7 +107,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
   - type: FeaturedItemsSection
-    title: LINGUAGENS APRENDIDAS
+    title: ALGUMAS LINGUAGENS APRENDIDAS
     items:
       - type: FeaturedItem
         title: PYTHON
