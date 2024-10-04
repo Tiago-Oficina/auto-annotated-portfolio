@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: TIAGO RIBEIRO
-    subtitle: >-
-      ALUNO DO CURSO DE GESTÃO E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS NA OFICINA
-      - ESCOLA PROFISSIONAL
+    subtitle: PROGRAMADOR
     styles:
       self:
         height: auto
