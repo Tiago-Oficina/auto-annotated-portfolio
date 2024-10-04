@@ -11,6 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/JOGO 1 ANO.png
   altText: Jogo
+  caption: Jogo
 media:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 153352.png
