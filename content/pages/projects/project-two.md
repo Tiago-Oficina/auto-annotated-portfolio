@@ -17,5 +17,5 @@ media:
   url: /images/Captura de ecrã 2024-10-04 153352.png
   altText: Project image
 ---
-
+Procurei com este projeto, desenvolver conhecimentos de PYTHON, fazendo assim um jogo em que um Espirito estaria a atacar um reino e o utilizador teria de o salvar
 
