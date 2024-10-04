@@ -15,7 +15,5 @@ media:
   url: /images/Captura de ecrã 2024-10-04 161644.png
   altText: Project image
 ---
-
-
-
+Com este projeto, desenvolvi os meus conhecimentos a nível de base de dados e procurei desenvolver um CRUD ( Create Read Update Delete )
 
