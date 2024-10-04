@@ -46,7 +46,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/VIT_2976.JPG
+      url: /images/Novo Projeto.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
