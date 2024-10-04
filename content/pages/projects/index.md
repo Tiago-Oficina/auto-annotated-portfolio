@@ -65,9 +65,9 @@ bottomSections:
           type: CheckboxFormControl
         - type: TextareaFormControl
           name: message
-          label: Message
+          label: Mensagem
           hideLabel: false
-          placeholder: Type your message here
+          placeholder: Escreva aqui a sua mensagem
           width: full
           isRequired: false
       submitLabel: Submeter✅
