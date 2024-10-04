@@ -50,6 +50,15 @@ sections:
       altText: Tiago
       caption: ''
       elementId: ''
+    text: >
+      ***SOBRE MIM!***
+
+
+      OLÁ! CHAMO-ME TIAGO RIBEIRO, TENHO 17 ANOS E SOU ALUNO DO CURSO DE GESTÃO
+      E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS NA OFICINA - ESCOLA PROFISSIONAL!
+      GOSTO DE AJUDAR OS OUTROS, TRABALHAR EM EQUIPA E MANTER A UNIÃO. NOS MEUS
+      TEMPOS LIVRES GOSTO DE ESTAR COM A MINHA FAMÍLIA, OUVIR MUSICA, JOGAR
+      FUTEBOL E JOGAR VIDEOJOGOS.
   - type: DividerSection
     title: Divider
     elementId: ''
