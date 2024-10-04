@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Captura de ecrã 2024-10-04 164451.png
+      url: /images/Novo Projeto.png
       altText: Tiago
       caption: ''
       elementId: ''
