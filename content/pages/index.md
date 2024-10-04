@@ -52,11 +52,11 @@ sections:
       ***SOBRE MIM!***
 
 
-      OLÁ! CHAMO-ME TIAGO RIBEIRO, TENHO 17 ANOS E SOU ALUNO DO CURSO DE GESTÃO
-      E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS NA OFICINA - ESCOLA PROFISSIONAL!
-      GOSTO DE AJUDAR OS OUTROS, TRABALHAR EM EQUIPA E MANTER A UNIÃO. NOS MEUS
-      TEMPOS LIVRES GOSTO DE ESTAR COM A MINHA FAMÍLIA, OUVIR MUSICA, JOGAR
-      FUTEBOL E JOGAR VIDEOJOGOS.
+      Olá! Chamo-me Tiago Ribeiro, tenho 17 anos e sou aluno no curso de Gestão
+      e Programação de Sistemas Informáticos na OFICINA - Escola Profissional!
+      Gosto de ajudar os outros, trabalhar em equipa e manter a união. Nos meus
+      tempos gosto de estar com a minha família, ouvir música, jogar futebol e
+      videojogos.
   - type: DividerSection
     title: Divider
     elementId: ''
