@@ -58,13 +58,6 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
         - name: updatesConsent
           label: Sign me up to recieve my words
           isRequired: false
