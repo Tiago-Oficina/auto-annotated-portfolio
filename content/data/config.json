@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "SKILLS",
                 "url": "/blog"
             }
         ],
@@ -26,13 +26,6 @@
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/tiagoribeiro-programador/",
                 "icon": "linkedin"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
@@ -43,20 +36,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "",
