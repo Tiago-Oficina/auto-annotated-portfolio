@@ -137,7 +137,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: JAVA
         subtitle: ''
         text: ''
         featuredImage:
