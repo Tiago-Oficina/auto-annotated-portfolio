@@ -16,3 +16,4 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
+Com este jogo, desenvolvi os meus conhecimentos a nível de linguagem JAVA
