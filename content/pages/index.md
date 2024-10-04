@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/VIT_2976.JPG
+      url: /images/Novo Projeto.png
       altText: Tiago
       caption: ''
       elementId: ''
