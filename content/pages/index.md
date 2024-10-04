@@ -141,7 +141,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/istockphoto-490132168-612x612.jpg
+          url: /images/img6.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
