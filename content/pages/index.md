@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: TIAGO RIBEIRO
-    subtitle: >-
-      ALUNO DO CURSO DE GESTÃO E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS NA OFICINA
-      - ESCOLA PROFISSIONAL
+    subtitle: PROGRAMADOR
     styles:
       self:
         height: auto
@@ -50,6 +48,15 @@ sections:
       altText: Tiago
       caption: ''
       elementId: ''
+    text: >
+      ***SOBRE MIM!***
+
+
+      Olá! Chamo-me Tiago Ribeiro, tenho 17 anos e sou aluno no curso de Gestão
+      e Programação de Sistemas Informáticos na OFICINA - Escola Profissional!
+      Gosto de ajudar os outros, trabalhar em equipa e manter a união. Nos meus
+      tempos gosto de estar com a minha família, ouvir música, jogar futebol e
+      videojogos.
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -102,22 +109,22 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Tem alguma pergunta? Contacte-me
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
+        - name: Nome
+          label: Nome
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: Apelido
+          label: 'Apelido '
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Apelido
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -128,19 +135,19 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
+        - type: TextareaFormControl
+          name: Mensagem
+          label: Mensagem
+          hideLabel: false
+          placeholder: Escreva aqui a sua mensagem
+          width: full
+          isRequired: false
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: Inscrever me para receber atualizações
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submeter✅
       styles:
         submitLabel:
           textAlign: center
