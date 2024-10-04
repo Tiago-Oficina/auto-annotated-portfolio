@@ -117,7 +117,7 @@ sections:
 
         featuredImage:
           type: ImageBlock
-          url: /images/1_KHoG7TZROBiJ_RQ8rGLWUQ.jpg
+          url: /images/Novo Projeto.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
