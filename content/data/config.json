@@ -61,7 +61,7 @@
             "type": "ContactBlock",
             "title": "",
             "phoneNumber": "",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
