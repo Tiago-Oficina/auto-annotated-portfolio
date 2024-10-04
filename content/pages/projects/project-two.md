@@ -5,8 +5,8 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  Jogo realizado no 1º ano do curso, com a missão de salvar um reino,
-  amaldiçoado 
+  Jogo realizado no 1º ano do curso. Com a missão de salvar um reino,
+  amaldiçoado por um Espirito!
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
