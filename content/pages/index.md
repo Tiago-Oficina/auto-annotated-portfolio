@@ -66,7 +66,16 @@ sections:
   - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          /https://replit.com/@Tiago-Daniel-Ca/PSI-M2-MECANISMOSDECONTROLOEEXECUCAO
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
