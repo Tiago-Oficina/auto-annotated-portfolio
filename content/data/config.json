@@ -65,7 +65,7 @@
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
