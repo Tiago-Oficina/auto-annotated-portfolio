@@ -63,6 +63,13 @@ bottomSections:
           isRequired: false
           width: full
           type: CheckboxFormControl
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: Submeter✅
       styles:
         submitLabel:
