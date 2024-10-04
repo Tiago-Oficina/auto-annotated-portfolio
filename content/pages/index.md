@@ -142,7 +142,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/java-completa-20-anos-veja-trajetoria-da-linguagem-de-programacao-1931017462.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
