@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PROJETO COM BASES DE DADOS
+title: PROJETO EM JAVA
 colors: colors-a
 date: '2023-05-30'
 client: Awesome client
