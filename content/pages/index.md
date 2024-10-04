@@ -162,7 +162,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: PHP
         subtitle: ''
         text: ''
         featuredImage:
