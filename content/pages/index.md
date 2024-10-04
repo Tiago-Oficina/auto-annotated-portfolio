@@ -48,7 +48,7 @@ sections:
       type: ImageBlock
       url: /images/Novo Projeto.png
       altText: tIAGO
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - type: DividerSection
     title: Divider
