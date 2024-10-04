@@ -110,7 +110,7 @@ sections:
     title: LINGUAGENS APRENDIDAS
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: PYTHON
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
