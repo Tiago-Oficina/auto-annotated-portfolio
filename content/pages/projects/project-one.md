@@ -10,7 +10,7 @@ description: >-
   most of the time.
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/JOGO 1 ANO.png
   altText: Project image
 ---
 
