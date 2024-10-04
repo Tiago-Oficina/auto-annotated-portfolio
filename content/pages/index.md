@@ -117,7 +117,7 @@ sections:
 
         featuredImage:
           type: ImageBlock
-          url: /images/novap.png
+          url: /images/images.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
