@@ -100,7 +100,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
