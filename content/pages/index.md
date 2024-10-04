@@ -203,7 +203,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: ContactSection
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: Tem alguma pergunta? Contacte-me
     form:
