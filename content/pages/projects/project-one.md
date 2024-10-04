@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PROJETO EM JAVA
 colors: colors-a
-date: '2021-10-15'
+date: '2023-05-15'
 client: Awesome client
 description: 'Jogo do Enforcado, realizado no 1º ano do curso, em JAVA'
 media:
