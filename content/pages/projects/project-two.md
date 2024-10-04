@@ -9,7 +9,7 @@ description: >-
   amaldiçoado por um Espirito!
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/JOGO 1 ANO.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
