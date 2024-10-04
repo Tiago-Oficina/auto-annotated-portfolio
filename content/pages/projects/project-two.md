@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: JOGO FEITO EM PYTHON
 colors: colors-a
-date: '2024-09-04'
+date: '2024-02-04'
 client: ''
 description: >-
   Jogo realizado no 1º ano do curso. Com a missão de salvar um reino,
