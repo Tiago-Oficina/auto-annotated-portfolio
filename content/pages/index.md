@@ -141,8 +141,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            /images/java-completa-20-anos-veja-trajetoria-da-linguagem-de-programacao-1931017462.webp
+          url: /images/1_KHoG7TZROBiJ_RQ8rGLWUQ.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
