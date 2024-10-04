@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/istockphoto-1365141371-2048x2048.jpg
+  url: /images/pexels-karolina-grabowska-6634136.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
