@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Novo Projeto.png
+      url: /images/VIT_2976.JPG
       altText: Tiago
       caption: ''
       elementId: ''
@@ -106,6 +106,19 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     title: ALGUMAS LINGUAGENS APRENDIDAS
     items:
@@ -121,16 +134,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -145,16 +149,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -169,16 +164,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -205,8 +191,21 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: Tem alguma pergunta? Contacte-me
     form:
