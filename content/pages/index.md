@@ -47,7 +47,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Novo Projeto.png
-      altText: tIAGO
+      altText: Tiago
       caption: ''
       elementId: ''
   - type: DividerSection
