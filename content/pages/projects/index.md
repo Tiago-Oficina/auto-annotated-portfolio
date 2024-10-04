@@ -40,14 +40,14 @@ bottomSections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Apelido
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -58,19 +58,19 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
         - name: updatesConsent
           label: Sign me up to recieve my words
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
+      submitLabel: Submeter✅
       styles:
         submitLabel:
           textAlign: center

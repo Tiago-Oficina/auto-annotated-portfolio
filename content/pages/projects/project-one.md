@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PROJETO EM JAVA
 colors: colors-a
 date: '2023-05-30'
-client: Awesome client
+client: ''
 description: 'Jogo do Enforcado, realizado no 1º ano do curso, em JAVA'
 media:
   type: ImageBlock
@@ -16,3 +16,4 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
+Com este jogo, desenvolvi os meus conhecimentos a nível de linguagem JAVA
