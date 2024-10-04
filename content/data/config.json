@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "PROJETOS",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "SKILLS",
-                "url": "/algumas linguagens aprendidas"
             }
         ],
         "socialLinks": [
