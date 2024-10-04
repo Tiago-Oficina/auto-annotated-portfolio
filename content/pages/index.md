@@ -107,7 +107,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: LINGUAGENS APRENDIDAS
     items:
       - type: FeaturedItem
         title: I'm Fast
