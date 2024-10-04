@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 161644.png
   altText: CRUD
+  caption: CRUD
 media:
   type: ImageBlock
   url: /images/bg3.jpg
