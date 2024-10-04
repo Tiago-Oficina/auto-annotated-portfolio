@@ -46,7 +46,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/VIT_2976.JPG
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
