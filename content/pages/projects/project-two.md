@@ -3,7 +3,7 @@ type: ProjectLayout
 title: JOGO FEITO EM PYTHON
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   Jogo realizado no 1º ano do curso. Com a missão de salvar um reino,
   amaldiçoado por um Espirito!
