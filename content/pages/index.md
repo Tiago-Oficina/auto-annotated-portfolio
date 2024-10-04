@@ -141,7 +141,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/img6.webp
+          url: /images/jn.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
