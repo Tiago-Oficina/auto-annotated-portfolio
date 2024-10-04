@@ -1,10 +1,10 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: PROJETOS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/pexels-karolina-grabowska-6634136.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Alguma dúvida? Vamos conversar!
     colors: colors-f
     form:
       type: FormBlock
