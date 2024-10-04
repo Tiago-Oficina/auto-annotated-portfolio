@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       OLÁ! CHAMO-ME TIAGO RIBEIRO, SOU ALUNO NA OFICINA - ESCOLA PROFISSIONAL NO
-      CURSO DE GESTÃO E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS
+      CURSO DE GESTÃO E PROGRAMAÇÃO DE SISTEMAS INFORMÁTICOS.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
