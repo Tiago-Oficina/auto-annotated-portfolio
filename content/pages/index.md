@@ -106,6 +106,105 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
+  - type: FeaturedItemsSection
+    title: ALGUMAS LINGUAGENS APRENDIDAS
+    items:
+      - type: FeaturedItem
+        title: PYTHON
+        subtitle: ''
+        text: |+
+
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/pn.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: JAVA
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/jn.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: PHP
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/phn.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-b
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
