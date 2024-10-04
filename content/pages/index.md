@@ -44,12 +44,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/VIT_2976.JPG
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
