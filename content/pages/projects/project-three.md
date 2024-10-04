@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PROJETO EM PHP
 colors: colors-a
 date: '2024-04-11'
-client: F
+client: ''
 description: 'Projeto CRUD, realizado no 2º ano do curso, em PHP'
 featuredImage:
   type: ImageBlock
