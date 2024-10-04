@@ -66,7 +66,7 @@ bottomSections:
           width: full
           isRequired: false
         - name: updatesConsent
-          label: Inscreva-me para receber atualizações
+          label: Inscrever me para receber atualizações
           isRequired: false
           width: full
           type: CheckboxFormControl
