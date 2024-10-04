@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PROJETO EM PHP
 colors: colors-a
-date: '2023-03-22'
+date: '2023-05-22'
 client: Awesome client
 description: 'Projeto CRUD, realizado em PHP'
 featuredImage:
