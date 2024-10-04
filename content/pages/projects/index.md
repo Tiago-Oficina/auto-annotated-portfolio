@@ -58,11 +58,6 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: TextareaFormControl
           name: message
           label: Mensagem
@@ -70,6 +65,11 @@ bottomSections:
           placeholder: Escreva aqui a sua mensagem
           width: full
           isRequired: false
+        - name: updatesConsent
+          label: Inscrever me para receber atualizações
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: Submeter✅
       styles:
         submitLabel:
