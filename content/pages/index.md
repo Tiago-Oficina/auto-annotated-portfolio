@@ -57,6 +57,84 @@ sections:
       Gosto de ajudar os outros, trabalhar em equipa e manter a união. Nos meus
       tempos gosto de estar com a minha família, ouvir música, jogar futebol e
       videojogos.
+  - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: FORMAÇÃO EDUCACIONAL
+        text: |+
+          *   OFICINA: ESCOLA PROFISSIONAL, AREIAS, SANTO TIRSO 2022 – 2025
+
+          *   ESCOLA BÁSICA E SECUNDÁRIA D. DINIS, SANTO TIRSO 2017 – 2022
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: OUTRAS EXPERIÊNCIAS
+        text: |+
+          *   PARTICIPAÇÃO NA ACADEMIA DE LÍDERES UBUNTU
+              35 HORAS
+              2024
+
+          *   PARTICIPAÇÃO NO PROJETO BGREEN, 2023
+              PARTICIPAÇÃO NA PALESTRA “BULLYING”, OFICINA:
+              ESCOLA PROFISSIONAL
+              2023
+
+          *   PARTICIPAÇÃO NO WORKSHOP CITEVE, VILA NOVA
+              DE FAMALICÃO
+              2023
+
+          *   JOGADOR DE FUTSAL CLUBE DESPORTIVO DAS
+              AVES, VILA DAS AVES, SANTO TIRSO
+              2022 – 2023
+              JOGADOR A NÍVEL FEDERADO NA AF PORTO
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: EXPERIÊNCIA CURRICULAR
+        text: |+
+          *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
+              133 HORAS
+              2024
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 2
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: DividerSection
     title: Divider
     elementId: ''
