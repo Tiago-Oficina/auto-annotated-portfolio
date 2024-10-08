@@ -63,10 +63,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: FORMAÇÃO EDUCACIONAL
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          OFICINA: ESCOLA PROFISSIONAL
+          AREIAS, SANTO TIRSO
+          2022 – 2025
+
+
+          ESCOLA BÁSICA E SECUNDÁRIA D. DINIS, SANTO TIRSO
+          2017 – 2022
         actions: []
         elementId: ''
         styles:
