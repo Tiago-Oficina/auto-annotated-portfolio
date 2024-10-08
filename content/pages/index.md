@@ -76,10 +76,25 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: OUTRAS EXPERIÊNCIAS
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          *   PARTICIPAÇÃO NA ACADEMIA DE LÍDERES UBUNTU
+              35 HORAS
+              2024
+
+          *   PARTICIPAÇÃO NO PROJETO BGREEN, 2023
+              PARTICIPAÇÃO NA PALESTRA “BULLYING”, OFICINA:
+              ESCOLA PROFISSIONAL
+              2023
+
+          *   PARTICIPAÇÃO NO WORKSHOP CITEVE, VILA NOVA
+              DE FAMALICÃO
+              2023
+
+          *   JOGADOR DE FUTSAL CLUBE DESPORTIVO DAS
+              AVES, VILA DAS AVES, SANTO TIRSO
+              2022 – 2023
+              JOGADOR A NÍVEL FEDERADO NA AF PORTO
+
         actions: []
         elementId: ''
         styles:
