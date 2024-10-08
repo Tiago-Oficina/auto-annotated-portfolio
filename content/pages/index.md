@@ -114,19 +114,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: EXPERIÊNCIA CURRICULAR
-        text: |+
-          *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
-              133 HORAS
-              2024
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 2
