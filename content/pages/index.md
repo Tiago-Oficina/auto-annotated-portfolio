@@ -57,19 +57,6 @@ sections:
       Gosto de ajudar os outros, trabalhar em equipa e manter a união. Nos meus
       tempos gosto de estar com a minha família, ouvir música, jogar futebol e
       videojogos.
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: ''
     items:
