@@ -105,7 +105,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'PROJETOS REALIZADOS '
+    subtitle: ''
     title: 'PROJETOS REALIZADOS '
   - type: DividerSection
     title: Divider
