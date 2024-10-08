@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: FORMAÇÃO EDUCACIONAL
+        subtitle: ''
         text: |+
           **FORMAÇÃO EDUCACIONAL**
 
