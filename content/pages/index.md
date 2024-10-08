@@ -106,6 +106,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: 'PROJETOS REALIZADOS '
+    title: 'PROJETOS REALIZADOS '
   - type: DividerSection
     title: Divider
     elementId: ''
