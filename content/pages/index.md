@@ -62,11 +62,25 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: FORMAÇÃO EDUCACIONAL
+        subtitle: ''
         text: |+
+          **FORMAÇÃO EDUCACIONAL**
+
           *   OFICINA: ESCOLA PROFISSIONAL, AREIAS, SANTO TIRSO 2022 – 2025
 
+          <!---->
+
           *   ESCOLA BÁSICA E SECUNDÁRIA D. DINIS, SANTO TIRSO 2017 – 2022
+
+
+
+          **EXPERIÊNCIA CURRICULAR**
+
+          *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
+              133 HORAS
+              2024
+
+
 
         actions: []
         elementId: ''
@@ -94,19 +108,6 @@ sections:
               AVES, VILA DAS AVES, SANTO TIRSO
               2022 – 2023
               JOGADOR A NÍVEL FEDERADO NA AF PORTO
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: EXPERIÊNCIA CURRICULAR
-        text: |+
-          *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
-              133 HORAS
-              2024
 
         actions: []
         elementId: ''
