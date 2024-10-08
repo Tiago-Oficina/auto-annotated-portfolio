@@ -206,7 +206,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: SKILLS
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/python preto.png
