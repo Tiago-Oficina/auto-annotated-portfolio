@@ -105,7 +105,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'PROJETOS REALIZADOS '
+    subtitle: ''
+    title: 'PROJETOS REALIZADOS '
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -224,7 +225,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/java preto.png
         altText: Image four
         caption: Image four caption
         elementId: ''
