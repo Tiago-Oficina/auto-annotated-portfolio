@@ -209,7 +209,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/icone-cercle-orange (1).png
+        url: /images/icone-cercle-orange (2) (1).png
         altText: Image one
         caption: Image one caption
         elementId: ''
