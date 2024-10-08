@@ -86,7 +86,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: ''
         subtitle: EXPERIÊNCIA CURRICULAR
         text: |+
           *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
