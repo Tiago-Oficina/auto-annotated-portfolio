@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FORM
-        subtitle: ''
+        subtitle: FORMAÇÃO EDUCACIONAL
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
