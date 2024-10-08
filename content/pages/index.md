@@ -205,7 +205,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: SKILLS
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
