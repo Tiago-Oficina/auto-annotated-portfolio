@@ -228,7 +228,7 @@ sections:
         altText: Image four
         caption: Image four caption
         elementId: ''
-    colors: colors-b
+    colors: colors-f
     spacing: 16
     columns: 4
     aspectRatio: '4:3'
