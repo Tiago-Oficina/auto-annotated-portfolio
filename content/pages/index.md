@@ -88,10 +88,11 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: EXPERIÊNCIA CURRICULAR
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          *   FCT NA EMPRESA PCSOLUTION E TECNOLOGIAS
+              133 HORAS
+              2024
+
         actions: []
         elementId: ''
         styles:
